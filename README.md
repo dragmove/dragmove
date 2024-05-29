@@ -1,4 +1,8 @@
-### Hi 👋
+### Who 
+
+Versatile `Front-end Engineer` with 15+ years of experience, developing interactive websites and applications in various environments. Specialized in Javascript and subtle motion.
+
+Interested in code, interaction, design, learning.
 
 <!--
 **dragmove/dragmove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
